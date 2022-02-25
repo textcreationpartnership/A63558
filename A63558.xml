@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True narrative of a wonderful accident which occur'd upon the execution of a Christian slave at Aleppo in Turky being a remarkable instance of divine providence, attesting the acceptableness of the Christian religion, and the virtue of chastity to Almighty God : written at first for the satisfaction of a friend only, and since made publick for the strengthning of virtue.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63558</idno>
+            <idno type="STC">Wing T2773</idno>
+            <idno type="STC">ESTC R12567</idno>
+            <idno type="EEBO-CITATION">13801390</idno>
+            <idno type="OCLC">ocm 13801390</idno>
+            <idno type="VID">101941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True narrative of a wonderful accident which occur'd upon the execution of a Christian slave at Aleppo in Turky being a remarkable instance of divine providence, attesting the acceptableness of the Christian religion, and the virtue of chastity to Almighty God : written at first for the satisfaction of a friend only, and since made publick for the strengthning of virtue.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dorman Newman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, May 12, 1676; Ro. L'Estrange."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101941:1"/>
+            <pb facs="tcp:101941:1"/>
+            <p>A TRUE NARRATIVE OF A Wonderful Accident, Which occur'd upon the Execution of a CHRISTIAN SLAVE AT <hi>Aleppo in Turky.</hi>
+            </p>
+            <p>BEING A Remarkable Inſtance of Divine Providence, at<g ref="char:EOLhyphen"/>teſting the acceptableneſs of the <hi>Chriſtian Religion,</hi> and the Virtue of Chaſtity to Almighty God.</p>
+            <p>Written at firſt for the Satisfaction of a Friend only; and ſince made publick for the ſtrengthning of Virtue.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>This may be Printed.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>May</hi> 12. 1676.</date>
+                     </dateline>
+                     <signed>Ro. L'Eſtrange.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dorman Newman,</hi> at the <hi>Kings Arms</hi> in the <hi>Poultrey.</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101941:2"/>
+            <pb n="1" facs="tcp:101941:2"/>
+            <head>
+               <hi>A True Narrative of a Wonderful Accident, which occur'd upon the Execution of a</hi> Chriſtian Slave <hi>at</hi> Aleppo <hi>in</hi> Turky.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THough I am none of thoſe men of eaſie Faith, which (either through want of Capacity to judg of, or want of due Induſtry to inquire into things) are apt to credit all Reports: and though poſſibly there are few men have a greater averſion to encourage Superſtition than I have; Yet I confeſs I do not think my ſelf oblig'd to deny my aſſent to thoſe things my ſences inform me of; though I cannot preſently ſatisfie my ſelf of the true cauſes which produce their <hi>Phoenomina,</hi> or ap<g ref="char:EOLhyphen"/>pearances: for I have learn'd to know thus much, That there are many things we know not: And for my part, I look up<g ref="char:EOLhyphen"/>on that man as a very falſe conceited perſon, that dare deny matter of fact, only becauſe he is unacquainted with the cau<g ref="char:EOLhyphen"/>ſes from whence ſuch or ſuch an effect is produced.</p>
+            <p>Nay, I will go yet farther, and venture to ſay, That if I receive a relation of a thing from a Perſon, or Perſons, of whoſe Candor and Truth I have no reaſon to doubt; and if I am fully ſatisfied (upon a wary inſpection) that ſuch a worthy Perſon can have no intereſt to lead him to impoſe upon me: And if the ſame thing, with the ſame Circumſtances, be atteſted to me by many ſuch free and unintereſted Perſons, and that at ſeveral times, and unknowing to each other, and all this without the leaſt variation: I then conceive I have the greateſt humane probability imaginable for the giving an Hiſtorical Faith to ſuch a thing.</p>
+            <p>And this ſecurity any man may have (if he queſtion the truth of the ſucceeding Relation) by going to <hi>Elford's Coffee-Houſe</hi> in <hi>George-yard</hi> in <hi>Lombard-ſtreet,</hi> where he may meet with ſeveral Eminent and Worthy Gentlemen (<hi>Turky</hi>-Mer<g ref="char:EOLhyphen"/>chants), that can confirm the truth of the thing, they having
+<pb n="2" facs="tcp:101941:3"/>been at the place where this was acted, and at the ſame time when it was done.</p>
+            <p>I make this Apology, becauſe the Reader may ſatisfie himſelf of the truth of the enſuing Story, and not be apt to think he is impoſed upon by the Authors of the Iſland of <hi>Pines,</hi> or <hi>O Brazil.</hi>
+            </p>
+            <p>Some few years ſince, there happened an Inſurrection or Tumult of ſome of the <hi>Turks</hi> which dwelt in the City of <hi>A<g ref="char:EOLhyphen"/>leppo;</hi> which being eaſily ſuppreſſed, the <hi>Grand Seignior</hi> ne<g ref="char:EOLhyphen"/>vertheleſs ſent thither a <hi>Baſhaw</hi> to enquire out the Malefa<g ref="char:EOLhyphen"/>ctors, and ſee juſtice done upon them: in the Execution of which, the <hi>Turks</hi> are very ſevere (the Conſtitution of their Government obliging them to be ſo). Upon the approach of the <hi>Baſhaw,</hi> all the <hi>Turks</hi> of quality in <hi>Aleppo</hi> went out ſome Leagues or Miles to reverence the <hi>Baſhaw,</hi> and conduct him in triumphant manner to the City: And upon this occaſion they were attended by the greateſt part of their Slaves, the better to expreſs their Grandeur and Quality.</p>
+            <p>Upon this Affair it was, That the Houſe of one of the moſt magnificent <hi>Turks</hi> of that City, was left that day without any other Perſon in it, but only the Turks Steward, and a handſom <hi>French Slave,</hi> a young man of eighteen years old: This Turk's Steward, being much addicted to that horrid and unnatural ſin (too frequent with the <hi>Mahumetans</hi>) <hi>So<g ref="char:EOLhyphen"/>domy;</hi> and having caſt his luſtful Eyes upon this Youth, and conſidered the fitneſs of the time (the Houſe being empty) to act his Villanous deſign: He had in purſuance of his intent, got this <hi>Slave</hi> into a Chamber; where ha<g ref="char:EOLhyphen"/>ving locked the Door upon him, to hinder his making an Eſcape, He at firſt began to make promiſes, and to flatter the <hi>Slave,</hi> if by that means poſſibly he might prevail with him to conſent to his (more than Brutiſh) Devilliſh de<g ref="char:EOLhyphen"/>ſires: but finding the <hi>Slave</hi> of a ſetled and ſevere Virtue, he quickly perceived there was no hopes of accompliſhing his helliſh Deſires that way, and therefore had took up a re<g ref="char:EOLhyphen"/>ſolution to pollute the chaſt Youth by force; when the <hi>Slave</hi> perceived this, he begg'd, he pray'd, he demonſtrated the im<g ref="char:EOLhyphen"/>poſſibility of his aſſenting to ſuch a Crime: But all this made no other impreſſions upon the vile Turk, but to add paſſion
+<pb n="3" facs="tcp:101941:3"/>and Fury to his Luſt: inſomuch, that he ſwore deeply, he would give him immediate Death, if he diſputed any longer, and did not preſently ſubmit to his accurſed Will. The virtuous <hi>Slave</hi> abhorring this baſeneſs with all his Soul, and finding himſelf deſtitute of all other Remedies, nimbly ſei<g ref="char:EOLhyphen"/>zed upon a Cymeter which hung upon the wall of the Cham<g ref="char:EOLhyphen"/>ber, and at one blow with it, ſmote off the Turks head.</p>
+            <p>It is not eaſie for any one who is unacquainted with the Cruel and Tyrannical nature of the Turks, to make a true eſtimate of the miſerable and deplorable Condition this ac<g ref="char:EOLhyphen"/>cident had put this Generous Slave into: Death was the leaſt thing he could expect (and I believe the leaſt thing he feared): for it is very uſual with the Turks, upon much ſlighter faults (than this ſeemed to be in their eſteem) to deviſe long-laſting and inexpreſſive Torments to inflict up<g ref="char:EOLhyphen"/>on their Slaves: which being foreſeen by this unfortunate Youth, he immediately caſt about by what means to make his eſcape; he had heard that threeſcore Miles diſtance from <hi>Aleppo,</hi> there was another Engliſh Factory (of <hi>Turky</hi> Mer<g ref="char:EOLhyphen"/>chants) call'd <hi>Scanderoon;</hi> whither, if it were poſſible for him to get, he rationally ſuppos'd that he might be ſecur'd; and by being put aboard an Engliſh Veſſel, be by that means carried out of the Turks Dominions.</p>
+            <p>To accompliſh this, he went to his Maſter's Stable, where finding an <hi>Arabian</hi> Horſe, he preſently mounted the back of him, and convey'd himſelf out of the City: which was not difficult for him to do at that time, the place being empty of people upon the foreſaid occaſion. But he being totally ig<g ref="char:EOLhyphen"/>norant of the way he was to take, (having never been per<g ref="char:EOLhyphen"/>mitted all the time of his abode there to go out of the City) and not daring to enquire it for fear of betraying himſelf; by a Capriſe of ill Fortune, he happened to go the very ſame Road that his Maſter and the other Citizens of <hi>Aleppo</hi> (at<g ref="char:EOLhyphen"/>tending upon the <hi>Baſhaw</hi>) were returning homeward by. His Maſter and he were both ſurpriſed at the ſight of each other: and the Turk haſtily demanding the occaſion of his coming thither (whether it were the ſurpriſe, and fear he was in, or his modeſty which might make him loath to diſ<g ref="char:EOLhyphen"/>cover (before ſo much company) the truth of that ſhame<g ref="char:EOLhyphen"/>ful
+<pb n="4" facs="tcp:101941:4"/>attempt upon him, which cauſed him to make an eſcape I know not; ſo it was, that) he anſwer'd his Maſter, That Thieves had broken into his Houſe and kill'd his Steward, and that he having got out of a Window, had run to the Stable, and mounted that Horſe to come and give him notice.</p>
+            <p>The Turk ſeem'd to be ſatisfied with this account at pre<g ref="char:EOLhyphen"/>ſent, and commanded the Slave to joyn the Troop of thoſe which were upon their return to the City: which he was neceſſitated to do.</p>
+            <p>When they were come to <hi>Aleppo,</hi> the cunning Turk exa<g ref="char:EOLhyphen"/>min'd his Houſe, and found indeed his Steward kill'd, but when he perceived nothing was taken out of the Houſe, he preſently concluded no Thieves had been there: and there<g ref="char:EOLhyphen"/>fore charg'd the <hi>French</hi> Slave with the death of his Steward, which he frankly confeſs'd, with a full account of what you have heard.</p>
+            <p>The Turk then carried this Slave before the <hi>Baſhaw,</hi> deſi<g ref="char:EOLhyphen"/>ring juſtice might be done upon him for the death of his Steward: But when the <hi>Baſhaw</hi> had carefully examined the matter, he was convinced of the truth of the Slaves relation; and being willing to deter the Turk<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from that baſe ſin of <hi>Sodomy,</hi> he acquitted the Youth of puniſhment. But the Turks being unſatisfied with this Sentence, apply themſelves again, and in a body, to the <hi>Baſhaw,</hi> demonſtrating the ill conſequences of his merciful Sentence, and the unſecure eſtate it would reduce them all to, in giving encouragement to their Slaves to murther them: And begging, That though it were true which the Slave alledged, (which yet they de<g ref="char:EOLhyphen"/>ny'd, averring he murdred the Steward only that he might make his eſcape) that the Slave might be executed for an Example to others, which upon their importunity was at laſt granted them by the <hi>Baſhaw;</hi> and his former merciful Sen<g ref="char:EOLhyphen"/>tence revoked: but yet he would not ſuffer him to have any other death than beheading.</p>
+            <p>The Slave then was brought to the place of Execution (which is a Field without the City); where being come, he appeared, though very modeſt, yet undaunted, and fearleſs of Death. And having pray'd with much fervour and devo<g ref="char:EOLhyphen"/>tion, and having particularly acknowledg'd his fault, and
+<pb n="5" facs="tcp:101941:4"/>begg' Almighty Gods pardon for telling his Maſter that paſ<g ref="char:EOLhyphen"/>ſage (about robbing his Houſe) when he met him upon the Road; he was ſtrip'd ſtark naked (according to the cuſtom of that place) and diſcovered a lovely body, in which in<g ref="char:EOLhyphen"/>habited a more lovely Soul. And immediately before his death he did aver, That he died a Chriſtian, depending whol<g ref="char:EOLhyphen"/>ly for his Salvation upon the merits of our <hi>Saviour;</hi> and that he kill'd the Steward for no other reaſon but to avoid being polluted by him; and that he hoped God would ſhew ſome ſign upon his Body to atteſt his Innocency, and the truth of what he ſaid. After having ſaid this, his Head was ſtruck off by the Executioner, and his Body and Head left in the Field unburied, according to the cuſtom of the place.</p>
+            <p>It happened that there were executed at the ſame time, and in the ſame place, ſeveral rebellious Turks, whoſe Bo<g ref="char:EOLhyphen"/>dies were quickly torn in pieces, and devour'd by a certain ſort of great Dogs, kept there at <hi>Aleppo,</hi> who are allow'd almoſt no other ſuſtenance but the Carcaſſes of Malefactors. But it was obſerv'd, that none of theſe Dogs would touch the Body or Head of this <hi>Martyr</hi> of <hi>Chaſtity.</hi>
+            </p>
+            <p>It may be here objected, That this was a meer Accident, and that the Dogs bellies being fill'd, and ſatiated with eat<g ref="char:EOLhyphen"/>ing the Carcaſſes of the other Malefactors, they forbore to touch this Youth for that cauſe, and no other.</p>
+            <p>To which I anſwer, That it was obſerved, firſt, That the Body of this Young man lay in the Field unburied, for the ſpace of ten or twelve days, in all which time there was no other Executions, and the Dogs were ſo extreamly pinch'd with hunger, that they were ready to devour living men, who had much difficulty to keep themſelves from being attack'd by them; and yet would they not touch this Carcaſs.</p>
+            <p>Secondly, It is remarkable, That the Body of this Young man remain'd all this time expoſed to the heat of the Sun, (which in that Climate is very intemperate), and yet it did neither ſtink, corrupt, nor (which is ſomewhat odd) did it change its colour, but remain'd as freſh and vivid, as if he had been but aſleep.</p>
+            <p>Some may, to ſolve this, and take off the wonder, ſay, This proceeded from a peculiar and Balſamick conſtitution
+<pb n="6" facs="tcp:101941:5"/>of Body: But ſuppoſing this, The Youth was plump, juicy, of a good habit of Body, and what then ſhould hinder the Dogs to feed upon him, when they were preſs'd by extream hunger? And this Circumſtance is very well worth our Re<g ref="char:EOLhyphen"/>mark, That after ten days, there being another Execution in the ſame place, That Carcaſs was immediately devour'd in the ſight of the People.</p>
+            <p>I will not ſtifly affirm all this is Miraculous; though I know Gods hand is not ſhorten'd: and though he ſeldom ſtops or turns the courſe of Nature, yet he can do it when he pleaſeth: And upon this occaſion, here was a conſiderable Motive for God to exert His power, to illuſtrate the Inno<g ref="char:EOLhyphen"/>cency and Virtue of a devout and Chaſt Chriſtian, and that in a place where the Enemies of Chriſt Reign, and deſpiſe his Doctrine, and perſecute the Profeſſors of it. But Preaching being none of my employment, I ſhall forbear, and leave e<g ref="char:EOLhyphen"/>very man to abound in his own ſenſe.</p>
+            <p>I will end this Diſcourſe with only ſaying this, What Sentiments ſome Chriſtians may have upon reading this Hi<g ref="char:EOLhyphen"/>ſtory, I know not; but this I am aſſur'd of, That the ſight of the thing was ſo convincive and operative upon the Turks, That to bury their ſhame, they were neceſſitated at laſt to dig a Grave, and intomb this Chaſt Martyr.</p>
+            <p>
+               <hi>I have now in compliance to your deſires committed the true Narrative of this Hiſtory into your hands, which you are per<g ref="char:EOLhyphen"/>mitted to diſpoſe of as you think fit.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101941:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
